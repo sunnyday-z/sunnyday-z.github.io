@@ -1,1 +1,0 @@
-import{g as e,o as r}from"./vendor.40bf91cc.js";import{_ as n}from"./index.be303b18.js";const o={class:"SubordinateClueMenu"};var a=n({},[["render",function(n,a){return r(),e("div",o,"SubordinateClueMenu")}]]);export{a as default};

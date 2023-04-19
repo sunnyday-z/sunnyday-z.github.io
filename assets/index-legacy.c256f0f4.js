@@ -1,1 +1,0 @@
-System.register(["./vendor-legacy.693d84d8.js","./index-legacy.14eab77c.js"],(function(e){"use strict";var n,t,c;return{setters:[function(e){n=e.o,t=e.g},function(e){c=e._}],execute:function(){var r={class:"BasicClue"};e("default",c({},[["render",function(e,c){return n(),t("div",r,"BasicClue")}]]))}}}));
