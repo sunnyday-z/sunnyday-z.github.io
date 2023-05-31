@@ -1,1 +1,0 @@
-System.register(["./vendor-legacy.693d84d8.js","./index-legacy.2259272a.js"],(function(e){"use strict";var n,t,r;return{setters:[function(e){n=e.o,t=e.g},function(e){r=e._}],execute:function(){var c={class:"accreditClueMenu"};e("default",r({},[["render",function(e,r){return n(),t("div",c,"accreditClueMenu")}]]))}}}));

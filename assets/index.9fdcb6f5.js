@@ -1,0 +1,1 @@
+import{o as r,g as a}from"./vendor.40bf91cc.js";import{_ as e}from"./index.4ab7ab82.js";const o={class:"Clue"};var s=e({},[["render",function(e,s){return r(),a("div",o,"Clue")}]]);export{s as default};
